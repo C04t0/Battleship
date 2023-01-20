@@ -12,10 +12,7 @@ public class Board {
                 System.out.print(field[i][j]);
             }
             System.out.println();
-
-
         }
-
     }
     private static final char EMPTY = '.';
 }
